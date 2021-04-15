@@ -1,0 +1,1181 @@
+UniqueID,IndicatorID,Name,Measure,MeasureInfo,GeoTypeName,GeoJoinID,GeoPlaceName,Year,Start_Date,DataValue
+170281,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2010,12/01/2009,8.75
+606068,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2018,01/01/2018,6.19
+170399,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2012,12/01/2011,8.33
+170222,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2009,12/01/2008,9.67
+170458,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2013,12/01/2012,7.84
+411142,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2016,12/31/2015,6.62
+214166,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2014,12/01/2013,8.22
+334357,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2015,01/01/2015,7.29
+547774,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2017,01/01/2017,6.6
+170340,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,503,Tottenville and Great Kills (CD3),2011,12/01/2010,9.33
+170457,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2013,12/01/2012,8.05
+411139,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2016,12/31/2015,6.89
+606065,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2018,01/01/2018,6.49
+170339,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2011,12/01/2010,9.46
+170280,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2010,12/01/2009,8.8
+170398,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2012,12/01/2011,8.35
+547771,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2017,01/01/2017,6.89
+214165,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2014,12/01/2013,8.49
+334354,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2015,01/01/2015,7.8
+170221,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,502,South Beach and Willowbrook (CD2),2009,12/01/2008,9.85
+547768,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2017,01/01/2017,7.03
+214164,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2014,12/01/2013,8.61
+170397,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2012,12/01/2011,8.4
+606062,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2018,01/01/2018,6.58
+170279,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2010,12/01/2009,8.87
+170456,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2013,12/01/2012,8.11
+334351,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2015,01/01/2015,8.15
+170220,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2009,12/01/2008,9.99
+170338,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2011,12/01/2010,9.58
+411136,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,501,St. George and Stapleton (CD1),2016,12/31/2015,7.11
+170396,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2012,12/01/2011,7.36
+170455,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2013,12/01/2012,7.61
+170278,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2010,12/01/2009,7.98
+606059,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2018,01/01/2018,6.06
+547765,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2017,01/01/2017,6.32
+170337,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2011,12/01/2010,8.44
+214163,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2014,12/01/2013,7.69
+334348,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2015,01/01/2015,7.15
+411133,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2016,12/31/2015,5.98
+170219,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,414,Rockaway and Broad Channel (CD14),2009,12/01/2008,8.75
+170218,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2009,12/01/2008,9.37
+170395,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2012,12/01/2011,8.05
+547762,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2017,01/01/2017,6.77
+334345,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2015,01/01/2015,7.91
+606056,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2018,01/01/2018,6.44
+411130,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2016,12/31/2015,6.53
+170277,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2010,12/01/2009,8.66
+170336,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2011,12/01/2010,9.17
+170454,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2013,12/01/2012,7.87
+214162,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,413,Queens Village (CD13),2014,12/01/2013,8.03
+214161,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2014,12/01/2013,8.45
+334342,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2015,01/01/2015,8.21
+547759,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2017,01/01/2017,7.08
+606053,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2018,01/01/2018,6.7
+170276,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2010,12/01/2009,9.22
+170335,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2011,12/01/2010,9.54
+170394,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2012,12/01/2011,8.45
+411127,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2016,12/31/2015,6.98
+170217,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2009,12/01/2008,9.92
+170453,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,412,Jamaica and Hollis (CD12),2013,12/01/2012,8.26
+547756,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2017,01/01/2017,7.01
+170452,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2013,12/01/2012,8.06
+170216,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2009,12/01/2008,9.72
+170275,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2010,12/01/2009,8.97
+606050,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2018,01/01/2018,6.48
+411124,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2016,12/31/2015,6.87
+170334,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2011,12/01/2010,9.69
+170393,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2012,12/01/2011,8.53
+214160,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2014,12/01/2013,8.29
+334339,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,411,Bayside and Little Neck (CD11),2015,01/01/2015,8.22
+606047,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2018,01/01/2018,6.4
+170274,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2010,12/01/2009,9.0
+170333,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2011,12/01/2010,9.24
+170392,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2012,12/01/2011,8.12
+214159,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2014,12/01/2013,8.22
+334336,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2015,01/01/2015,7.89
+411121,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2016,12/31/2015,6.85
+547753,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2017,01/01/2017,6.79
+170215,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2009,12/01/2008,9.76
+170451,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,410,South Ozone Park and Howard Beach (CD10),2013,12/01/2012,7.99
+170214,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2009,12/01/2008,10.25
+170273,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2010,12/01/2009,9.48
+170450,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2013,12/01/2012,8.38
+214158,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2014,12/01/2013,8.65
+411118,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2016,12/31/2015,7.29
+547750,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2017,01/01/2017,7.16
+606044,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2018,01/01/2018,6.79
+170332,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2011,12/01/2010,9.72
+170391,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2012,12/01/2011,8.63
+334333,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,409,Kew Gardens and Woodhaven (CD9),2015,01/01/2015,8.29
+170331,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2011,12/01/2010,9.71
+170272,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2010,12/01/2009,9.28
+547747,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2017,01/01/2017,7.05
+606041,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2018,01/01/2018,6.59
+170449,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2013,12/01/2012,8.23
+214157,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2014,12/01/2013,8.44
+334330,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2015,01/01/2015,8.18
+411115,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2016,12/31/2015,7.01
+170213,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2009,12/01/2008,10.0
+170390,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,408,Hillcrest and Fresh Meadows (CD8),2012,12/01/2011,8.61
+606038,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2018,01/01/2018,6.93
+411112,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2016,12/31/2015,7.26
+334327,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2015,01/01/2015,8.48
+547744,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2017,01/01/2017,7.3
+170389,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2012,12/01/2011,8.93
+170212,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2009,12/01/2008,10.21
+170271,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2010,12/01/2009,9.38
+170330,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2011,12/01/2010,10.09
+170448,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2013,12/01/2012,8.43
+214156,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,407,Flushing and Whitestone (CD7),2014,12/01/2013,8.69
+214155,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2014,12/01/2013,8.95
+170211,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2009,12/01/2008,10.6
+170329,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2011,12/01/2010,10.1
+170447,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2013,12/01/2012,8.71
+411109,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2016,12/31/2015,7.5
+606035,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2018,01/01/2018,6.95
+170270,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2010,12/01/2009,9.8
+170388,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2012,12/01/2011,9.05
+334324,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2015,01/01/2015,8.48
+547741,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,406,Rego Park and Forest Hills (CD6),2017,01/01/2017,7.35
+606032,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2018,01/01/2018,7.35
+547738,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2017,01/01/2017,7.67
+170269,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2010,12/01/2009,9.67
+170210,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2009,12/01/2008,10.7
+170328,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2011,12/01/2010,10.23
+334321,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2015,01/01/2015,8.91
+170387,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2012,12/01/2011,9.07
+170446,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2013,12/01/2012,8.76
+214154,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2014,12/01/2013,9.16
+411106,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,405,Ridgewood and Maspeth (CD5),2016,12/31/2015,7.97
+411103,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2016,12/31/2015,7.71
+170445,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2013,12/01/2012,8.86
+214153,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2014,12/01/2013,9.15
+170209,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2009,12/01/2008,10.73
+547735,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2017,01/01/2017,7.54
+170268,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2010,12/01/2009,9.79
+334318,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2015,01/01/2015,8.7
+606029,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2018,01/01/2018,7.16
+170327,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2011,12/01/2010,10.3
+170386,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,404,Elmhurst and Corona (CD4),2012,12/01/2011,9.22
+606026,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2018,01/01/2018,6.88
+170208,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2009,12/01/2008,10.26
+170267,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2010,12/01/2009,9.23
+334315,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2015,01/01/2015,8.34
+547732,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2017,01/01/2017,7.18
+170326,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2011,12/01/2010,9.94
+170385,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2012,12/01/2011,8.81
+170444,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2013,12/01/2012,8.43
+214152,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2014,12/01/2013,8.7
+411100,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,403,Jackson Heights (CD3),2016,12/31/2015,7.27
+334312,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2015,01/01/2015,10.31
+170207,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2009,12/01/2008,11.89
+214151,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2014,12/01/2013,10.5
+411097,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2016,12/31/2015,9.27
+547729,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2017,01/01/2017,8.93
+606023,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2018,01/01/2018,8.6
+170325,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2011,12/01/2010,11.48
+170384,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2012,12/01/2011,10.29
+170266,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2010,12/01/2009,10.56
+170443,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,402,Woodside and Sunnyside (CD2),2013,12/01/2012,10.05
+547726,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2017,01/01/2017,7.69
+606020,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2018,01/01/2018,7.39
+170206,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2009,12/01/2008,10.69
+170383,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2012,12/01/2011,9.19
+214150,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2014,12/01/2013,9.2
+170265,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2010,12/01/2009,9.43
+334309,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2015,01/01/2015,8.99
+170324,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2011,12/01/2010,10.38
+170442,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2013,12/01/2012,8.9
+411094,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,401,Long Island City and Astoria (CD1),2016,12/31/2015,7.82
+411091,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2016,12/31/2015,7.08
+170323,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2011,12/01/2010,9.53
+170441,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2013,12/01/2012,8.16
+334306,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2015,01/01/2015,8.06
+170205,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2009,12/01/2008,9.81
+214149,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2014,12/01/2013,8.46
+170264,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2010,12/01/2009,9.09
+170382,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2012,12/01/2011,8.35
+547720,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2017,01/01/2017,7.49
+547723,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2017,01/01/2017,6.99
+606017,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,318,Flatlands and Canarsie (CD18),2018,01/01/2018,6.66
+170381,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2012,12/01/2011,9.05
+606014,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2018,01/01/2018,7.13
+170204,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2009,12/01/2008,10.57
+170263,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2010,12/01/2009,9.87
+170322,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2011,12/01/2010,10.23
+214148,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2014,12/01/2013,9.07
+334303,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2015,01/01/2015,8.73
+411088,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2016,12/31/2015,7.79
+170440,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,317,East Flatbush (CD17),2013,12/01/2012,8.69
+547717,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2017,01/01/2017,7.62
+606011,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2018,01/01/2018,7.36
+170203,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2009,12/01/2008,10.78
+170439,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2013,12/01/2012,8.82
+411085,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2016,12/31/2015,7.97
+170380,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2012,12/01/2011,9.14
+214147,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2014,12/01/2013,9.21
+334300,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2015,01/01/2015,8.88
+170262,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2010,12/01/2009,10.0
+170321,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,316,Brownsville (CD16),2011,12/01/2010,10.3
+547714,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2017,01/01/2017,6.85
+170320,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2011,12/01/2010,9.46
+170438,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2013,12/01/2012,8.14
+411082,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2016,12/31/2015,6.78
+606008,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2018,01/01/2018,6.54
+170202,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2009,12/01/2008,9.59
+214146,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2014,12/01/2013,8.39
+334297,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2015,01/01/2015,7.76
+411079,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2016,12/31/2015,7.45
+170261,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2010,12/01/2009,8.94
+170379,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,315,Sheepshead Bay (CD15),2012,12/01/2011,8.32
+547711,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2017,01/01/2017,7.25
+170201,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2009,12/01/2008,10.34
+170378,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2012,12/01/2011,8.92
+170260,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2010,12/01/2009,9.72
+170319,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2011,12/01/2010,10.08
+214145,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2014,12/01/2013,8.88
+334294,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2015,01/01/2015,8.42
+170437,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2013,12/01/2012,8.55
+606005,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,314,Flatbush and Midwood (CD14),2018,01/01/2018,6.95
+411076,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2016,12/31/2015,6.65
+334291,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2015,01/01/2015,7.62
+547708,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2017,01/01/2017,6.79
+170200,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2009,12/01/2008,9.43
+606002,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2018,01/01/2018,6.53
+170259,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2010,12/01/2009,8.76
+170318,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2011,12/01/2010,9.37
+170377,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2012,12/01/2011,8.24
+170436,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2013,12/01/2012,8.04
+214144,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,313,Coney Island (CD13),2014,12/01/2013,8.32
+547705,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2017,01/01/2017,7.29
+605999,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2018,01/01/2018,7.06
+214143,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2014,12/01/2013,8.89
+170376,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2012,12/01/2011,8.91
+170199,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2009,12/01/2008,10.3
+170258,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2010,12/01/2009,9.64
+170317,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2011,12/01/2010,10.1
+170435,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2013,12/01/2012,8.5
+334288,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2015,01/01/2015,8.49
+411073,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,312,Borough Park (CD12),2016,12/31/2015,7.49
+605996,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2018,01/01/2018,6.72
+170375,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2012,12/01/2011,8.56
+411070,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2016,12/31/2015,7.03
+547702,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2017,01/01/2017,7.0
+170434,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2013,12/01/2012,8.23
+334285,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2015,01/01/2015,8.02
+170257,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2010,12/01/2009,9.18
+170316,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2011,12/01/2010,9.72
+214142,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2014,12/01/2013,8.57
+170198,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,311,Bensonhurst (CD11),2009,12/01/2008,9.84
+170197,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2009,12/01/2008,10.18
+170256,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2010,12/01/2009,9.41
+214141,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2014,12/01/2013,8.83
+170374,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2012,12/01/2011,8.81
+334282,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2015,01/01/2015,8.42
+170315,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2011,12/01/2010,10.01
+547699,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2017,01/01/2017,7.26
+605993,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2018,01/01/2018,6.79
+170433,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2013,12/01/2012,8.41
+411067,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,310,Bay Ridge and Dyker Heights (CD10),2016,12/31/2015,7.39
+170255,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2010,12/01/2009,9.91
+334279,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2015,01/01/2015,8.7
+411064,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2016,12/31/2015,7.77
+547696,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2017,01/01/2017,7.38
+605990,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2018,01/01/2018,7.13
+170196,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2009,12/01/2008,10.63
+170314,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2011,12/01/2010,10.23
+214140,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2014,12/01/2013,9.04
+170373,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2012,12/01/2011,9.07
+170432,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,309,South Crown Heights and Lefferts Gardens (CD9),2013,12/01/2012,8.64
+605987,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2018,01/01/2018,7.3
+170313,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2011,12/01/2010,10.36
+170372,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2012,12/01/2011,9.18
+214139,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2014,12/01/2013,9.2
+170254,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2010,12/01/2009,9.98
+170431,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2013,12/01/2012,8.77
+547693,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2017,01/01/2017,7.54
+170195,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2009,12/01/2008,10.79
+334276,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2015,01/01/2015,8.91
+411061,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,308,Crown Heights and Prospect Heights (CD8),2016,12/31/2015,7.98
+170371,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2012,12/01/2011,9.66
+547690,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2017,01/01/2017,8.17
+605984,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2018,01/01/2018,7.77
+170194,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2009,12/01/2008,11.13
+170253,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2010,12/01/2009,10.29
+411058,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2016,12/31/2015,8.52
+170430,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2013,12/01/2012,9.18
+214138,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2014,12/01/2013,9.7
+170312,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2011,12/01/2010,10.92
+334273,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,307,Sunset Park (CD7),2015,01/01/2015,9.56
+411055,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2016,12/31/2015,8.86
+605981,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2018,01/01/2018,7.96
+170252,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2010,12/01/2009,10.45
+170370,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2012,12/01/2011,9.87
+170193,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2009,12/01/2008,11.43
+170311,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2011,12/01/2010,11.13
+214137,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2014,12/01/2013,9.95
+547687,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2017,01/01/2017,8.38
+170429,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2013,12/01/2012,9.4
+334270,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,306,Park Slope and Carroll Gardens (CD6),2015,01/01/2015,9.91
+170251,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2010,12/01/2009,9.74
+170310,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2011,12/01/2010,10.03
+214136,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2014,12/01/2013,8.99
+547684,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2017,01/01/2017,7.48
+170192,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2009,12/01/2008,10.54
+170369,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2012,12/01/2011,8.88
+411052,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2016,12/31/2015,7.73
+170428,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2013,12/01/2012,8.65
+334267,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2015,01/01/2015,8.66
+605978,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,305,East New York and Starrett City (CD5),2018,01/01/2018,7.02
+411049,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2016,12/31/2015,8.07
+605975,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2018,01/01/2018,7.51
+170191,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2009,12/01/2008,10.81
+170309,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2011,12/01/2010,10.31
+547681,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2017,01/01/2017,7.66
+170427,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2013,12/01/2012,8.82
+214135,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2014,12/01/2013,9.25
+334264,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2015,01/01/2015,8.98
+170250,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2010,12/01/2009,9.84
+170368,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,304,Bushwick (CD4),2012,12/01/2011,9.15
+334261,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2015,01/01/2015,9.03
+170367,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2012,12/01/2011,9.2
+411046,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2016,12/31/2015,8.09
+547678,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2017,01/01/2017,7.63
+170190,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2009,12/01/2008,10.84
+170249,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2010,12/01/2009,9.9
+214134,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2014,12/01/2013,9.27
+170308,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2011,12/01/2010,10.38
+170426,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2013,12/01/2012,8.82
+605972,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,303,Bedford Stuyvesant (CD3),2018,01/01/2018,7.38
+170307,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2011,12/01/2010,11.12
+170425,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2013,12/01/2012,9.52
+170189,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2009,12/01/2008,11.55
+170248,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2010,12/01/2009,10.52
+214133,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2014,12/01/2013,10.01
+411043,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2016,12/31/2015,8.83
+605969,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2018,01/01/2018,7.75
+170366,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2012,12/01/2011,9.92
+334258,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2015,01/01/2015,9.83
+547675,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,302,Fort Greene and Brooklyn Heights (CD2),2017,01/01/2017,8.29
+170247,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2010,12/01/2009,10.73
+170306,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2011,12/01/2010,11.6
+170424,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2013,12/01/2012,10.09
+214132,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2014,12/01/2013,10.64
+411040,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2016,12/31/2015,9.55
+547672,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2017,01/01/2017,9.06
+170365,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2012,12/01/2011,10.38
+334255,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2015,01/01/2015,10.56
+170188,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2009,12/01/2008,12.03
+605966,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,301,Greenpoint and Williamsburg (CD1),2018,01/01/2018,8.87
+547669,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2017,01/01/2017,7.37
+170305,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2011,12/01/2010,10.41
+214131,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2014,12/01/2013,8.91
+334252,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2015,01/01/2015,9.08
+170187,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2009,12/01/2008,10.64
+170246,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2010,12/01/2009,9.6
+170364,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2012,12/01/2011,9.03
+170423,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2013,12/01/2012,8.66
+411037,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2016,12/31/2015,7.46
+605963,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,212,Williamsbridge and Baychester (CD12),2018,01/01/2018,6.97
+214130,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2014,12/01/2013,8.92
+334249,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2015,01/01/2015,8.91
+605960,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2018,01/01/2018,7.08
+170304,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2011,12/01/2010,10.45
+170363,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2012,12/01/2011,9.15
+170245,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2010,12/01/2009,9.71
+170422,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2013,12/01/2012,8.71
+411034,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2016,12/31/2015,7.4
+547666,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2017,01/01/2017,7.39
+170186,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,211,Morris Park and Bronxdale (CD11),2009,12/01/2008,10.63
+547663,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2017,01/01/2017,7.51
+170303,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2011,12/01/2010,10.42
+411031,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2016,12/31/2015,7.51
+214129,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2014,12/01/2013,8.92
+605957,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2018,01/01/2018,6.88
+170421,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2013,12/01/2012,8.66
+334246,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2015,01/01/2015,8.96
+170185,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2009,12/01/2008,10.47
+170244,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2010,12/01/2009,9.5
+170362,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,210,Throgs Neck and Co-op City (CD10),2012,12/01/2011,9.13
+605954,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2018,01/01/2018,7.11
+170184,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2009,12/01/2008,10.82
+214128,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2014,12/01/2013,9.12
+170243,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2010,12/01/2009,9.96
+170302,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2011,12/01/2010,10.68
+170361,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2012,12/01/2011,9.45
+170420,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2013,12/01/2012,8.94
+547660,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2017,01/01/2017,7.62
+411028,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2016,12/31/2015,7.6
+334243,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,209,Parkchester and Soundview (CD9),2015,01/01/2015,8.99
+605951,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2018,01/01/2018,6.95
+411025,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2016,12/31/2015,7.49
+547657,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2017,01/01/2017,7.4
+170183,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2009,12/01/2008,11.02
+214127,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2014,12/01/2013,9.0
+334240,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2015,01/01/2015,9.16
+170360,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2012,12/01/2011,9.27
+170301,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2011,12/01/2010,10.65
+170419,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2013,12/01/2012,8.87
+170242,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,208,Riverdale and Fieldston (CD8),2010,12/01/2009,10.09
+605948,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2018,01/01/2018,7.38
+170359,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2012,12/01/2011,9.82
+334237,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2015,01/01/2015,9.34
+170300,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2011,12/01/2010,11.08
+214126,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2014,12/01/2013,9.48
+411022,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2016,12/31/2015,7.78
+170241,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2010,12/01/2009,10.7
+170418,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2013,12/01/2012,9.4
+547654,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2017,01/01/2017,7.73
+170182,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,207,Kingsbridge Heights and Bedford (CD7),2009,12/01/2008,11.47
+605945,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2018,01/01/2018,7.37
+214125,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2014,12/01/2013,9.56
+411019,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2016,12/31/2015,7.96
+170417,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2013,12/01/2012,9.46
+547651,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2017,01/01/2017,7.94
+170358,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2012,12/01/2011,9.93
+170240,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2010,12/01/2009,10.67
+334234,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2015,01/01/2015,9.45
+170181,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2009,12/01/2008,11.46
+170299,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,206,Belmont and East Tremont (CD6),2011,12/01/2010,11.18
+334231,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2015,01/01/2015,9.85
+605942,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2018,01/01/2018,7.68
+170298,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2011,12/01/2010,11.71
+170239,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2010,12/01/2009,11.4
+214124,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2014,12/01/2013,10.07
+411016,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2016,12/31/2015,8.34
+547648,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2017,01/01/2017,8.3
+170180,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2009,12/01/2008,12.1
+170357,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2012,12/01/2011,10.5
+170416,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,205,Fordham and University Heights (CD5),2013,12/01/2012,10.05
+214123,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2014,12/01/2013,9.99
+170238,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2010,12/01/2009,11.19
+170415,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2013,12/01/2012,9.97
+334228,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2015,01/01/2015,9.72
+170179,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2009,12/01/2008,11.96
+170297,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2011,12/01/2010,11.58
+411013,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2016,12/31/2015,8.25
+605939,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2018,01/01/2018,7.73
+547645,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2017,01/01/2017,8.25
+170356,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,204,Highbridge and Concourse (CD4),2012,12/01/2011,10.4
+547642,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2017,01/01/2017,7.87
+411010,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2016,12/31/2015,7.85
+170296,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2011,12/01/2010,11.09
+170178,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2009,12/01/2008,11.37
+170237,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2010,12/01/2009,10.57
+170355,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2012,12/01/2011,9.88
+170414,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2013,12/01/2012,9.4
+605936,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2018,01/01/2018,7.45
+214122,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2014,12/01/2013,9.49
+334225,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,203,Morrisania and Crotona (CD3),2015,01/01/2015,9.3
+605933,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2018,01/01/2018,8.12
+411007,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2016,12/31/2015,8.49
+170177,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2009,12/01/2008,11.64
+170354,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2012,12/01/2011,10.25
+170236,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2010,12/01/2009,10.71
+170295,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2011,12/01/2010,11.47
+214121,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2014,12/01/2013,9.96
+334222,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2015,01/01/2015,9.85
+547639,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2017,01/01/2017,8.49
+170413,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,202,Hunts Point and Longwood (CD2),2013,12/01/2012,9.76
+411004,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2016,12/31/2015,8.55
+170176,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2009,12/01/2008,11.86
+170235,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2010,12/01/2009,10.88
+170353,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2012,12/01/2011,10.38
+170412,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2013,12/01/2012,9.97
+547636,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2017,01/01/2017,8.54
+605930,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2018,01/01/2018,8.05
+334219,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2015,01/01/2015,9.93
+170294,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2011,12/01/2010,11.58
+214120,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,201,Mott Haven and Melrose (CD1),2014,12/01/2013,10.11
+170293,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2011,12/01/2010,11.13
+214119,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2014,12/01/2013,9.46
+170234,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2010,12/01/2009,10.74
+170352,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2012,12/01/2011,9.88
+334216,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2015,01/01/2015,9.36
+411001,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2016,12/31/2015,7.79
+170175,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2009,12/01/2008,11.55
+547633,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2017,01/01/2017,7.77
+605927,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2018,01/01/2018,7.32
+170411,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,112,Washington Heights and Inwood (CD12),2013,12/01/2012,9.46
+547630,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2017,01/01/2017,8.09
+170292,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2011,12/01/2010,11.12
+170410,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2013,12/01/2012,9.71
+170351,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2012,12/01/2011,9.98
+334213,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2015,01/01/2015,9.5
+410998,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2016,12/31/2015,8.17
+605924,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2018,01/01/2018,7.39
+170174,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2009,12/01/2008,11.54
+170233,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2010,12/01/2009,10.41
+214118,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,111,East Harlem (CD11),2014,12/01/2013,9.82
+170409,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2013,12/01/2012,9.64
+410995,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2016,12/31/2015,7.89
+605921,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2018,01/01/2018,7.5
+170173,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2009,12/01/2008,11.55
+170232,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2010,12/01/2009,10.59
+214117,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2014,12/01/2013,9.67
+547627,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2017,01/01/2017,7.88
+170291,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2011,12/01/2010,11.08
+170350,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2012,12/01/2011,9.95
+410992,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2016,12/31/2015,8.01
+334210,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,110,Central Harlem (CD10),2015,01/01/2015,9.29
+170349,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2012,12/01/2011,10.05
+170408,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2013,12/01/2012,9.75
+334207,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2015,01/01/2015,9.44
+605918,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2018,01/01/2018,7.52
+170231,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2010,12/01/2009,10.69
+214116,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2014,12/01/2013,9.77
+170172,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2009,12/01/2008,11.69
+170290,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2011,12/01/2010,11.19
+547624,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,109,Morningside Heights and Hamilton Heights (CD9),2017,01/01/2017,7.97
+170289,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2011,12/01/2010,12.13
+170407,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2013,12/01/2012,11.13
+214115,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2014,12/01/2013,11.18
+170171,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2009,12/01/2008,12.91
+170348,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2012,12/01/2011,11.22
+334204,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2015,01/01/2015,10.22
+547621,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2017,01/01/2017,8.87
+605915,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2018,01/01/2018,8.7
+410989,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2016,12/31/2015,9.1
+170230,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,108,Upper East Side (CD8),2010,12/01/2009,11.87
+170288,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2011,12/01/2010,11.47
+170347,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2012,12/01/2011,10.44
+410986,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2016,12/31/2015,8.49
+547618,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2017,01/01/2017,8.33
+605912,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2018,01/01/2018,8.16
+170170,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2009,12/01/2008,12.16
+170229,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2010,12/01/2009,10.98
+170406,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2013,12/01/2012,10.35
+214114,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2014,12/01/2013,10.42
+334201,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,107,Upper West Side (CD7),2015,01/01/2015,9.77
+605909,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2018,01/01/2018,9.49
+170405,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2013,12/01/2012,12.25
+214113,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2014,12/01/2013,12.37
+334198,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2015,01/01/2015,11.21
+410983,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2016,12/31/2015,10.21
+547615,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2017,01/01/2017,9.77
+170169,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2009,12/01/2008,14.08
+170287,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2011,12/01/2010,13.13
+605906,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2018,01/01/2018,11.45
+170228,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2010,12/01/2009,13.12
+170346,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,106,Stuyvesant Town and Turtle Bay (CD6),2012,12/01/2011,12.31
+547612,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2017,01/01/2017,10.92
+170227,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2010,12/01/2009,15.51
+334195,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2015,01/01/2015,12.28
+170286,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2011,12/01/2010,14.8
+410980,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2016,12/31/2015,11.34
+170168,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2009,12/01/2008,16.09
+170404,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2013,12/01/2012,14.26
+214112,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2014,12/01/2013,14.19
+170345,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,105,Midtown (CD5),2012,12/01/2011,14.24
+334192,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2015,01/01/2015,10.91
+170226,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2010,12/01/2009,11.95
+170285,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2011,12/01/2010,12.43
+170403,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2013,12/01/2012,11.39
+214111,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2014,12/01/2013,11.62
+410977,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2016,12/31/2015,9.76
+547609,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2017,01/01/2017,9.36
+605903,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2018,01/01/2018,9.14
+170167,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2009,12/01/2008,13.22
+170344,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,104,Clinton and Chelsea (CD4),2012,12/01/2011,11.43
+547606,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2017,01/01/2017,8.4
+170225,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2010,12/01/2009,10.62
+214110,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2014,12/01/2013,10.31
+170284,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2011,12/01/2010,11.26
+170343,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2012,12/01/2011,10.14
+334189,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2015,01/01/2015,9.95
+410974,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2016,12/31/2015,8.9
+170402,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2013,12/01/2012,9.9
+605900,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2018,01/01/2018,7.93
+170166,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,103,Lower East Side and Chinatown (CD3),2009,12/01/2008,11.85
+170342,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2012,12/01/2011,11.05
+170283,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2011,12/01/2010,12.08
+170401,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2013,12/01/2012,10.9
+410971,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2016,12/31/2015,9.53
+605897,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2018,01/01/2018,8.86
+170165,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2009,12/01/2008,12.82
+170224,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2010,12/01/2009,11.63
+214109,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2014,12/01/2013,11.23
+334186,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2015,01/01/2015,10.61
+547603,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,102,Greenwich Village and Soho (CD2),2017,01/01/2017,9.04
+410968,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2016,12/31/2015,9.56
+170400,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2013,12/01/2012,11.06
+170164,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2009,12/01/2008,13.05
+334183,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2015,01/01/2015,10.57
+605894,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2018,01/01/2018,8.97
+547600,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2017,01/01/2017,9.04
+170341,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2012,12/01/2011,11.3
+170223,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2010,12/01/2009,12.14
+170282,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2011,12/01/2010,12.27
+214108,365,Fine Particulate Matter (PM2.5),Mean,mcg per cubic meter,CD,101,Financial District (CD1),2014,12/01/2013,11.37
+167567,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2009,12/01/2008,14.7
+412834,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2016,12/31/2015,11.44
+167626,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2010,12/01/2009,12.96
+167685,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2011,12/01/2010,13.35
+167803,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2013,12/01/2012,11.42
+213635,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2014,12/01/2013,12.53
+336895,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2015,01/01/2015,11.81
+550166,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2017,01/01/2017,11.64
+603107,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2018,01/01/2018,11.01
+167744,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,503,Tottenville and Great Kills (CD3),2012,12/01/2011,12.4
+336892,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2015,01/01/2015,13.62
+412831,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2016,12/31/2015,13.36
+213634,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2014,12/01/2013,13.98
+603104,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2018,01/01/2018,12.84
+167743,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2012,12/01/2011,14.46
+167684,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2011,12/01/2010,16.29
+167802,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2013,12/01/2012,13.77
+550163,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2017,01/01/2017,13.19
+167566,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2009,12/01/2008,16.54
+167625,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,502,South Beach and Willowbrook (CD2),2010,12/01/2009,15.24
+336889,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2015,01/01/2015,16.91
+603101,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2018,01/01/2018,16.07
+167683,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2011,12/01/2010,20.48
+167742,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2012,12/01/2011,18.1
+167801,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2013,12/01/2012,17.64
+213633,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2014,12/01/2013,17.12
+550160,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2017,01/01/2017,16.4
+167624,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2010,12/01/2009,19.33
+167565,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2009,12/01/2008,20.68
+412828,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,501,St. George and Stapleton (CD1),2016,12/31/2015,16.86
+603098,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2018,01/01/2018,10.41
+412825,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2016,12/31/2015,11.6
+167623,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2010,12/01/2009,13.95
+167800,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2013,12/01/2012,12.54
+213632,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2014,12/01/2013,13.66
+336886,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2015,01/01/2015,13.44
+550157,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2017,01/01/2017,12.55
+167564,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2009,12/01/2008,14.55
+167682,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2011,12/01/2010,14.15
+167741,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,414,Rockaway and Broad Channel (CD14),2012,12/01/2011,13.0
+412822,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2016,12/31/2015,16.21
+603095,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2018,01/01/2018,16.26
+550154,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2017,01/01/2017,16.49
+167681,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2011,12/01/2010,19.33
+213631,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2014,12/01/2013,17.34
+167563,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2009,12/01/2008,19.92
+167740,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2012,12/01/2011,17.39
+167799,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2013,12/01/2012,16.87
+167622,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2010,12/01/2009,19.14
+336883,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,413,Queens Village (CD13),2015,01/01/2015,17.22
+412819,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2016,12/31/2015,17.63
+167739,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2012,12/01/2011,19.41
+336880,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2015,01/01/2015,18.53
+167798,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2013,12/01/2012,19.07
+603092,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2018,01/01/2018,17.71
+550151,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2017,01/01/2017,17.79
+167562,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2009,12/01/2008,22.33
+167621,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2010,12/01/2009,21.28
+213629,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2014,12/01/2013,17.81
+167680,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2011,12/01/2010,21.58
+213630,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,412,Jamaica and Hollis (CD12),2014,12/01/2013,18.89
+550148,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2017,01/01/2017,16.94
+167620,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2010,12/01/2009,19.64
+603089,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2018,01/01/2018,16.09
+167561,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2009,12/01/2008,20.49
+167679,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2011,12/01/2010,19.91
+167738,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2012,12/01/2011,17.87
+167797,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2013,12/01/2012,16.82
+336877,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2015,01/01/2015,17.64
+412816,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,411,Bayside and Little Neck (CD11),2016,12/31/2015,16.78
+412813,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2016,12/31/2015,17.21
+603086,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2018,01/01/2018,16.55
+336874,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2015,01/01/2015,18.17
+167796,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2013,12/01/2012,19.04
+550145,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2017,01/01/2017,17.42
+213628,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2014,12/01/2013,18.6
+167560,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2009,12/01/2008,22.17
+167619,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2010,12/01/2009,21.0
+167678,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2011,12/01/2010,21.48
+167737,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,410,South Ozone Park and Howard Beach (CD10),2012,12/01/2011,19.34
+412810,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2016,12/31/2015,18.69
+550142,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2017,01/01/2017,18.76
+603083,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2018,01/01/2018,18.17
+167618,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2010,12/01/2009,22.77
+167736,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2012,12/01/2011,21.02
+167795,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2013,12/01/2012,20.57
+167677,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2011,12/01/2010,23.3
+213627,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2014,12/01/2013,20.09
+336871,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2015,01/01/2015,19.47
+167559,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,409,Kew Gardens and Woodhaven (CD9),2009,12/01/2008,24.07
+167617,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2010,12/01/2009,21.28
+167794,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2013,12/01/2012,18.69
+603080,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2018,01/01/2018,17.15
+167558,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2009,12/01/2008,22.39
+412807,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2016,12/31/2015,17.63
+167735,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2012,12/01/2011,19.36
+213626,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2014,12/01/2013,18.82
+550139,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2017,01/01/2017,17.66
+336868,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2015,01/01/2015,18.34
+167676,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,408,Hillcrest and Fresh Meadows (CD8),2011,12/01/2010,21.67
+550136,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2017,01/01/2017,18.45
+213625,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2014,12/01/2013,19.42
+336865,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2015,01/01/2015,19.04
+603077,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2018,01/01/2018,17.62
+167616,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2010,12/01/2009,21.46
+167675,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2011,12/01/2010,21.94
+167793,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2013,12/01/2012,18.71
+167734,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2012,12/01/2011,19.82
+412804,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2016,12/31/2015,18.2
+167557,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,407,Flushing and Whitestone (CD7),2009,12/01/2008,22.68
+550133,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2017,01/01/2017,19.33
+167733,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2012,12/01/2011,21.83
+167792,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2013,12/01/2012,21.1
+336862,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2015,01/01/2015,20.01
+412801,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2016,12/31/2015,19.31
+167615,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2010,12/01/2009,23.52
+167674,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2011,12/01/2010,24.11
+213624,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2014,12/01/2013,20.88
+603074,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2018,01/01/2018,18.33
+167556,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,406,Rego Park and Forest Hills (CD6),2009,12/01/2008,24.98
+412798,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2016,12/31/2015,18.83
+550130,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2017,01/01/2017,18.8
+167791,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2013,12/01/2012,20.36
+336859,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2015,01/01/2015,19.37
+213623,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2014,12/01/2013,20.06
+167732,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2012,12/01/2011,21.06
+167673,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2011,12/01/2010,23.31
+167555,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2009,12/01/2008,24.06
+167614,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2010,12/01/2009,22.59
+603071,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,405,Ridgewood and Maspeth (CD5),2018,01/01/2018,18.5
+167731,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2012,12/01/2011,23.73
+336856,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2015,01/01/2015,21.87
+167790,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2013,12/01/2012,22.82
+550127,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2017,01/01/2017,21.26
+412795,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2016,12/31/2015,21.21
+167554,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2009,12/01/2008,26.86
+603068,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2018,01/01/2018,19.94
+167613,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2010,12/01/2009,25.25
+167672,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2011,12/01/2010,25.94
+213622,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,404,Elmhurst and Corona (CD4),2014,12/01/2013,22.8
+336853,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2015,01/01/2015,20.98
+412792,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2016,12/31/2015,20.32
+603065,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2018,01/01/2018,19.09
+167671,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2011,12/01/2010,24.74
+213621,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2014,12/01/2013,21.72
+167553,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2009,12/01/2008,25.64
+167612,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2010,12/01/2009,24.01
+167730,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2012,12/01/2011,22.55
+167789,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2013,12/01/2012,21.6
+550124,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,403,Jackson Heights (CD3),2017,01/01/2017,20.48
+412789,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2016,12/31/2015,20.79
+550121,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2017,01/01/2017,20.72
+336850,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2015,01/01/2015,21.21
+167729,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2012,12/01/2011,22.98
+167788,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2013,12/01/2012,22.11
+213620,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2014,12/01/2013,21.94
+167552,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2009,12/01/2008,25.93
+603062,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2018,01/01/2018,21.13
+167611,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2010,12/01/2009,24.14
+167670,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,402,Woodside and Sunnyside (CD2),2011,12/01/2010,25.08
+550118,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2017,01/01/2017,20.26
+167610,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2010,12/01/2009,23.5
+167669,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2011,12/01/2010,24.36
+167787,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2013,12/01/2012,21.36
+603059,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2018,01/01/2018,19.5
+336847,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2015,01/01/2015,20.65
+412786,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2016,12/31/2015,20.07
+167551,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2009,12/01/2008,25.44
+167728,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2012,12/01/2011,22.2
+213619,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,401,Long Island City and Astoria (CD1),2014,12/01/2013,21.21
+167727,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2012,12/01/2011,17.25
+550115,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2017,01/01/2017,15.71
+167550,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2009,12/01/2008,20.26
+213618,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2014,12/01/2013,17.08
+167609,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2010,12/01/2009,19.16
+167668,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2011,12/01/2010,19.24
+336844,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2015,01/01/2015,16.61
+412783,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2016,12/31/2015,15.36
+603056,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2018,01/01/2018,14.45
+167786,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,318,Flatlands and Canarsie (CD18),2013,12/01/2012,16.67
+213617,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2014,12/01/2013,20.52
+336841,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2015,01/01/2015,19.81
+603053,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2018,01/01/2018,18.08
+167785,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2013,12/01/2012,20.69
+167726,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2012,12/01/2011,21.25
+550112,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2017,01/01/2017,18.93
+167667,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2011,12/01/2010,23.62
+167549,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2009,12/01/2008,25.12
+167608,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2010,12/01/2009,23.63
+412780,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,317,East Flatbush (CD17),2016,12/31/2015,18.94
+550109,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2017,01/01/2017,19.3
+603050,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2018,01/01/2018,18.8
+167607,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2010,12/01/2009,24.03
+336838,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2015,01/01/2015,20.08
+412777,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2016,12/31/2015,19.29
+213616,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2014,12/01/2013,20.91
+167548,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2009,12/01/2008,25.63
+167666,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2011,12/01/2010,24.23
+167725,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2012,12/01/2011,21.92
+167784,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,316,Brownsville (CD16),2013,12/01/2012,21.36
+550106,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2017,01/01/2017,16.39
+603047,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2018,01/01/2018,14.49
+167606,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2010,12/01/2009,19.44
+336835,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2015,01/01/2015,17.4
+167724,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2012,12/01/2011,17.6
+167783,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2013,12/01/2012,16.78
+167665,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2011,12/01/2010,19.38
+213615,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2014,12/01/2013,17.96
+412774,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2016,12/31/2015,15.91
+167547,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,315,Sheepshead Bay (CD15),2009,12/01/2008,20.37
+603044,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2018,01/01/2018,17.28
+412771,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2016,12/31/2015,18.29
+550103,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2017,01/01/2017,18.32
+213614,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2014,12/01/2013,20.0
+167546,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2009,12/01/2008,24.43
+336832,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2015,01/01/2015,19.26
+167605,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2010,12/01/2009,23.01
+167782,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2013,12/01/2012,19.85
+167664,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2011,12/01/2010,22.86
+167723,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,314,Flatbush and Midwood (CD14),2012,12/01/2011,20.49
+603041,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2018,01/01/2018,13.63
+167604,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2010,12/01/2009,17.65
+167722,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2012,12/01/2011,15.97
+167545,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2009,12/01/2008,18.41
+167781,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2013,12/01/2012,15.06
+336829,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2015,01/01/2015,16.07
+412768,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2016,12/31/2015,14.64
+550100,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2017,01/01/2017,15.09
+213613,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2014,12/01/2013,16.57
+167780,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2013,12/01/2012,20.53
+550097,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2017,01/01/2017,19.03
+603038,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2018,01/01/2018,18.5
+167663,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),2011,12/01/2010,17.69
+336826,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2015,01/01/2015,19.93
+167603,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2010,12/01/2009,23.77
+167721,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2012,12/01/2011,21.15
+213612,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2014,12/01/2013,20.62
+167544,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2009,12/01/2008,25.17
+167662,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2011,12/01/2010,23.65
+412765,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,312,Borough Park (CD12),2016,12/31/2015,19.12
+213611,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2014,12/01/2013,19.68
+336823,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2015,01/01/2015,19.1
+167720,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2012,12/01/2011,19.71
+412762,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2016,12/31/2015,18.05
+167602,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2010,12/01/2009,21.93
+167661,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2011,12/01/2010,21.93
+167779,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2013,12/01/2012,18.96
+603035,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2018,01/01/2018,17.08
+550094,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2017,01/01/2017,18.15
+167543,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,311,Bensonhurst (CD11),2009,12/01/2008,23.01
+412759,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2016,12/31/2015,18.54
+603032,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2018,01/01/2018,17.7
+167719,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2012,12/01/2011,20.08
+336820,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2015,01/01/2015,19.16
+167601,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2010,12/01/2009,22.43
+167778,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2013,12/01/2012,19.48
+213610,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2014,12/01/2013,19.63
+167542,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2009,12/01/2008,23.62
+167660,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2011,12/01/2010,22.64
+550091,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,310,Bay Ridge and Dyker Heights (CD10),2017,01/01/2017,18.24
+167600,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2010,12/01/2009,25.26
+213609,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2014,12/01/2013,21.66
+603029,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2018,01/01/2018,19.12
+167777,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2013,12/01/2012,22.12
+550088,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2017,01/01/2017,19.95
+167718,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2012,12/01/2011,22.7
+412756,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2016,12/31/2015,20.11
+167659,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2011,12/01/2010,25.21
+336817,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2015,01/01/2015,20.76
+167541,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,309,South Crown Heights and Lefferts Gardens (CD9),2009,12/01/2008,26.99
+167717,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2012,12/01/2011,23.45
+603026,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2018,01/01/2018,19.9
+213608,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2014,12/01/2013,22.25
+336814,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2015,01/01/2015,21.29
+167658,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2011,12/01/2010,25.96
+412753,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2016,12/31/2015,20.74
+167776,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2013,12/01/2012,22.84
+167540,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2009,12/01/2008,27.75
+167599,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2010,12/01/2009,25.9
+550085,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,308,Crown Heights and Prospect Heights (CD8),2017,01/01/2017,20.54
+412750,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2016,12/31/2015,19.44
+550082,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2017,01/01/2017,18.96
+167539,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2009,12/01/2008,25.49
+213607,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2014,12/01/2013,20.33
+167657,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2011,12/01/2010,24.01
+603023,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2018,01/01/2018,19.76
+167598,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2010,12/01/2009,23.96
+167716,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2012,12/01/2011,21.24
+167775,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2013,12/01/2012,20.74
+336811,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,307,Sunset Park (CD7),2015,01/01/2015,19.81
+167538,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2009,12/01/2008,27.7
+167715,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2012,12/01/2011,23.25
+412747,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2016,12/31/2015,21.17
+550079,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2017,01/01/2017,20.62
+603020,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2018,01/01/2018,21.2
+167656,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2011,12/01/2010,26.01
+167774,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2013,12/01/2012,22.74
+213606,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2014,12/01/2013,22.01
+336808,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2015,01/01/2015,21.35
+167597,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,306,Park Slope and Carroll Gardens (CD6),2010,12/01/2009,25.87
+213605,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2014,12/01/2013,19.34
+336805,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2015,01/01/2015,18.71
+550076,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2017,01/01/2017,17.92
+167596,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2010,12/01/2009,22.02
+412744,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2016,12/31/2015,17.83
+603017,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2018,01/01/2018,17.17
+167655,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2011,12/01/2010,22.43
+167537,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2009,12/01/2008,23.39
+167714,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2012,12/01/2011,20.21
+167773,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,305,East New York and Starrett City (CD5),2013,12/01/2012,19.75
+167713,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2012,12/01/2011,22.36
+213604,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2014,12/01/2013,21.2
+550073,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2017,01/01/2017,19.75
+167536,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2009,12/01/2008,25.88
+167772,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2013,12/01/2012,21.69
+336802,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2015,01/01/2015,20.34
+412741,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2016,12/31/2015,19.82
+167595,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2010,12/01/2009,24.2
+167654,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2011,12/01/2010,24.66
+603014,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,304,Bushwick (CD4),2018,01/01/2018,19.47
+213603,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2014,12/01/2013,22.24
+336799,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2015,01/01/2015,21.26
+412738,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2016,12/31/2015,20.79
+167712,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2012,12/01/2011,23.5
+167594,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2010,12/01/2009,25.68
+167653,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2011,12/01/2010,25.92
+167771,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2013,12/01/2012,22.84
+167535,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2009,12/01/2008,27.55
+550070,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2017,01/01/2017,20.59
+603011,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,303,Bedford Stuyvesant (CD3),2018,01/01/2018,19.99
+167652,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2011,12/01/2010,27.36
+167770,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2013,12/01/2012,24.17
+213602,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2014,12/01/2013,23.39
+167711,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2012,12/01/2011,24.81
+412735,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2016,12/31/2015,22.16
+167593,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2010,12/01/2009,27.14
+336796,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2015,01/01/2015,22.4
+167534,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2009,12/01/2008,29.25
+550067,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2017,01/01/2017,21.66
+603008,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,302,Fort Greene and Brooklyn Heights (CD2),2018,01/01/2018,21.09
+167710,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2012,12/01/2011,23.65
+213601,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2014,12/01/2013,22.43
+603005,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2018,01/01/2018,22.14
+167592,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2010,12/01/2009,25.16
+550064,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2017,01/01/2017,21.15
+167651,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2011,12/01/2010,25.87
+412732,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2016,12/31/2015,21.38
+167533,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2009,12/01/2008,27.03
+167769,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2013,12/01/2012,22.88
+336793,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,301,Greenpoint and Williamsburg (CD1),2015,01/01/2015,21.66
+336790,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2015,01/01/2015,18.97
+167532,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2009,12/01/2008,22.05
+213600,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2014,12/01/2013,18.34
+550061,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2017,01/01/2017,18.35
+603002,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2018,01/01/2018,15.81
+167591,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2010,12/01/2009,19.74
+167650,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2011,12/01/2010,20.59
+167709,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2012,12/01/2011,19.54
+167768,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2013,12/01/2012,17.96
+412729,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,212,Williamsbridge and Baychester (CD12),2016,12/31/2015,16.93
+412726,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2016,12/31/2015,17.91
+602999,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2018,01/01/2018,17.08
+167590,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2010,12/01/2009,21.2
+550058,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2017,01/01/2017,19.04
+167708,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2012,12/01/2011,20.37
+213599,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2014,12/01/2013,19.37
+336787,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2015,01/01/2015,19.63
+167531,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2009,12/01/2008,23.36
+167649,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2011,12/01/2010,21.83
+167767,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,211,Morris Park and Bronxdale (CD11),2013,12/01/2012,18.97
+412723,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2016,12/31/2015,17.23
+602996,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2018,01/01/2018,15.84
+550055,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2017,01/01/2017,18.07
+167589,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2010,12/01/2009,19.76
+167766,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2013,12/01/2012,17.44
+167530,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2009,12/01/2008,21.33
+213598,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2014,12/01/2013,18.54
+336784,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2015,01/01/2015,18.76
+167648,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2011,12/01/2010,20.44
+167707,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,210,Throgs Neck and Co-op City (CD10),2012,12/01/2011,19.02
+167706,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2012,12/01/2011,21.07
+167765,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2013,12/01/2012,19.95
+336781,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2015,01/01/2015,20.12
+602993,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2018,01/01/2018,17.94
+167647,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2011,12/01/2010,23.03
+213597,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2014,12/01/2013,20.2
+167529,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2009,12/01/2008,24.58
+412720,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2016,12/31/2015,18.81
+550052,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2017,01/01/2017,19.49
+167588,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,209,Parkchester and Soundview (CD9),2010,12/01/2009,22.55
+336778,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2015,01/01/2015,17.83
+550049,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2017,01/01/2017,17.3
+167528,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2009,12/01/2008,23.21
+602990,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2018,01/01/2018,15.77
+167587,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2010,12/01/2009,20.15
+412717,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2016,12/31/2015,16.04
+167646,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2011,12/01/2010,20.8
+167705,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2012,12/01/2011,19.08
+167764,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2013,12/01/2012,18.24
+213596,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,208,Riverdale and Fieldston (CD8),2014,12/01/2013,17.14
+412714,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2016,12/31/2015,19.15
+602987,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2018,01/01/2018,18.43
+550046,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2017,01/01/2017,20.3
+167704,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2012,12/01/2011,22.46
+167527,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2009,12/01/2008,26.72
+167645,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2011,12/01/2010,24.22
+167586,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2010,12/01/2009,23.77
+213595,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2014,12/01/2013,20.73
+336775,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2015,01/01/2015,20.94
+167763,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,207,Kingsbridge Heights and Bedford (CD7),2013,12/01/2012,21.49
+336772,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2015,01/01/2015,21.41
+412711,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2016,12/31/2015,19.86
+167703,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2012,12/01/2011,22.81
+167762,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2013,12/01/2012,21.92
+167585,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2010,12/01/2009,24.44
+167526,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2009,12/01/2008,27.13
+213594,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2014,12/01/2013,21.36
+550043,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2017,01/01/2017,20.72
+602984,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2018,01/01/2018,19.18
+167644,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,206,Belmont and East Tremont (CD6),2011,12/01/2010,24.81
+167702,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2012,12/01/2011,24.57
+336769,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2015,01/01/2015,22.7
+167525,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2009,12/01/2008,29.65
+167584,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2010,12/01/2009,26.53
+167643,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2011,12/01/2010,26.79
+550040,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2017,01/01/2017,21.96
+602981,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2018,01/01/2018,20.54
+412708,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2016,12/31/2015,21.18
+167761,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2013,12/01/2012,23.95
+213593,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,205,Fordham and University Heights (CD5),2014,12/01/2013,22.74
+167583,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2010,12/01/2009,26.64
+167760,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2013,12/01/2012,23.99
+412705,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2016,12/31/2015,21.21
+602978,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2018,01/01/2018,20.92
+167642,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2011,12/01/2010,26.9
+167701,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2012,12/01/2011,24.46
+336766,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2015,01/01/2015,22.44
+167524,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2009,12/01/2008,29.71
+213592,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2014,12/01/2013,22.7
+550037,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,204,Highbridge and Concourse (CD4),2017,01/01/2017,21.8
+602975,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2018,01/01/2018,19.82
+550034,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2017,01/01/2017,20.78
+167523,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2009,12/01/2008,27.71
+167700,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2012,12/01/2011,23.02
+167759,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2013,12/01/2012,22.32
+167641,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2011,12/01/2010,25.3
+213591,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2014,12/01/2013,21.57
+336763,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2015,01/01/2015,21.37
+167582,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2010,12/01/2009,25.0
+412702,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,203,Morrisania and Crotona (CD3),2016,12/31/2015,20.07
+167522,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2009,12/01/2008,26.09
+412699,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2016,12/31/2015,19.79
+336760,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2015,01/01/2015,20.85
+602972,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2018,01/01/2018,20.45
+550031,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2017,01/01/2017,20.3
+167699,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2012,12/01/2011,22.07
+167581,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2010,12/01/2009,23.88
+213590,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2014,12/01/2013,21.02
+167640,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2011,12/01/2010,24.34
+167758,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,202,Hunts Point and Longwood (CD2),2013,12/01/2012,21.27
+602969,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2018,01/01/2018,21.17
+167698,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2012,12/01/2011,23.5
+167639,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2011,12/01/2010,25.92
+213589,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2014,12/01/2013,22.12
+412696,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2016,12/31/2015,20.84
+550028,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2017,01/01/2017,21.25
+167580,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2010,12/01/2009,25.47
+167757,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2013,12/01/2012,22.94
+336757,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2015,01/01/2015,21.8
+167521,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,201,Mott Haven and Melrose (CD1),2009,12/01/2008,28.07
+167697,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2012,12/01/2011,22.64
+336754,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2015,01/01/2015,20.72
+167579,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2010,12/01/2009,24.66
+412693,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2016,12/31/2015,19.36
+550025,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2017,01/01/2017,20.14
+167520,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2009,12/01/2008,27.95
+167638,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2011,12/01/2010,25.0
+167756,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2013,12/01/2012,22.25
+213588,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2014,12/01/2013,20.6
+602966,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,112,Washington Heights and Inwood (CD12),2018,01/01/2018,19.34
+167578,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2010,12/01/2009,26.99
+167637,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2011,12/01/2010,27.57
+167696,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2012,12/01/2011,25.23
+550022,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2017,01/01/2017,22.33
+602963,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2018,01/01/2018,20.88
+167755,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2013,12/01/2012,24.66
+336751,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2015,01/01/2015,22.9
+167519,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2009,12/01/2008,29.83
+213587,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2014,12/01/2013,23.65
+412690,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,111,East Harlem (CD11),2016,12/31/2015,22.09
+167518,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2009,12/01/2008,31.17
+336748,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2015,01/01/2015,23.25
+550019,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2017,01/01/2017,22.74
+602960,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2018,01/01/2018,21.72
+167754,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2013,12/01/2012,25.43
+213586,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2014,12/01/2013,23.97
+412687,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2016,12/31/2015,22.27
+167577,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2010,12/01/2009,27.95
+167636,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2011,12/01/2010,28.32
+167695,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,110,Central Harlem (CD10),2012,12/01/2011,25.85
+213585,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2014,12/01/2013,23.55
+412684,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2016,12/31/2015,22.0
+602957,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2018,01/01/2018,21.51
+167635,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2011,12/01/2010,28.05
+167753,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2013,12/01/2012,25.22
+167517,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2009,12/01/2008,30.96
+167694,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2012,12/01/2011,25.54
+336745,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2015,01/01/2015,22.95
+167576,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2010,12/01/2009,27.64
+550016,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,109,Morningside Heights and Hamilton Heights (CD9),2017,01/01/2017,22.44
+213584,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2014,12/01/2013,27.75
+550013,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2017,01/01/2017,25.14
+167516,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2009,12/01/2008,34.45
+167575,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2010,12/01/2009,31.17
+167752,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2013,12/01/2012,28.73
+336742,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2015,01/01/2015,25.77
+167634,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2011,12/01/2010,31.66
+412681,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2016,12/31/2015,24.91
+167693,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2012,12/01/2011,29.64
+602954,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,108,Upper East Side (CD8),2018,01/01/2018,23.51
+167692,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2012,12/01/2011,27.07
+167751,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2013,12/01/2012,26.48
+336739,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2015,01/01/2015,23.85
+167515,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2009,12/01/2008,31.9
+412678,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2016,12/31/2015,23.15
+550010,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2017,01/01/2017,23.39
+167574,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2010,12/01/2009,28.62
+213583,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2014,12/01/2013,25.1
+167633,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2011,12/01/2010,29.28
+602951,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,107,Upper West Side (CD7),2018,01/01/2018,22.19
+412675,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2016,12/31/2015,28.4
+550007,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2017,01/01/2017,28.44
+167514,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2009,12/01/2008,39.92
+167632,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2011,12/01/2010,36.42
+167750,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2013,12/01/2012,33.37
+167691,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2012,12/01/2011,34.48
+336736,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2015,01/01/2015,29.29
+602948,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2018,01/01/2018,26.65
+213582,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2014,12/01/2013,32.2
+167573,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,106,Stuyvesant Town and Turtle Bay (CD6),2010,12/01/2009,36.22
+213581,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2014,12/01/2013,37.06
+550004,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2017,01/01/2017,32.0
+602945,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2018,01/01/2018,31.1
+167572,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2010,12/01/2009,42.07
+167631,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2011,12/01/2010,41.84
+167513,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2009,12/01/2008,46.75
+167749,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2013,12/01/2012,38.71
+412672,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2016,12/31/2015,31.64
+167690,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2012,12/01/2011,39.98
+336733,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,105,Midtown (CD5),2015,01/01/2015,32.91
+550001,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2017,01/01/2017,26.64
+412669,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2016,12/31/2015,26.68
+167571,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2010,12/01/2009,32.87
+167689,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2012,12/01/2011,31.4
+336730,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2015,01/01/2015,27.25
+167512,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2009,12/01/2008,36.27
+602942,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2018,01/01/2018,25.71
+167630,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2011,12/01/2010,33.45
+167748,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2013,12/01/2012,30.56
+213580,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,104,Clinton and Chelsea (CD4),2014,12/01/2013,29.23
+167511,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2009,12/01/2008,31.8
+412666,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2016,12/31/2015,24.0
+549998,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2017,01/01/2017,23.65
+213579,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2014,12/01/2013,25.72
+602939,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2018,01/01/2018,22.4
+167629,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2011,12/01/2010,29.7
+167688,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2012,12/01/2011,27.42
+167570,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2010,12/01/2009,29.22
+167747,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2013,12/01/2012,26.63
+336727,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,103,Lower East Side and Chinatown (CD3),2015,01/01/2015,24.3
+336724,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2015,01/01/2015,26.31
+549995,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2017,01/01/2017,25.68
+167510,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2009,12/01/2008,34.83
+167746,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2013,12/01/2012,29.27
+213578,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2014,12/01/2013,28.08
+167628,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2011,12/01/2010,32.3
+167687,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2012,12/01/2011,30.08
+412663,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2016,12/31/2015,25.94
+602936,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2018,01/01/2018,24.77
+167569,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,102,Greenwich Village and Soho (CD2),2010,12/01/2009,31.83
+412660,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2016,12/31/2015,26.27
+602933,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2018,01/01/2018,25.32
+167568,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2010,12/01/2009,33.43
+167627,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2011,12/01/2010,33.51
+213577,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2014,12/01/2013,28.91
+167686,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2012,12/01/2011,31.1
+167745,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2013,12/01/2012,30.28
+549992,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2017,01/01/2017,25.94
+167509,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2009,12/01/2008,36.62
+336721,375,Nitrogen Dioxide (NO2),Mean,ppb,CD,101,Financial District (CD1),2015,01/01/2015,26.7
